@@ -1,0 +1,2 @@
+[start]
+cmd = "java -cp target/lib -jar target/*jar"

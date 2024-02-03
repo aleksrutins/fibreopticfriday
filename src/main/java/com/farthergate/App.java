@@ -18,6 +18,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        System.out.println("Starting");
         var dotenv = Dotenv.load();
 
         var api = new DiscordApiBuilder()

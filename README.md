@@ -1,1 +1,0 @@
-[Add to server](https://discord.com/api/oauth2/authorize?client_id=1203157169327964191&scope=applications.commands%20bot&permissions=2048)

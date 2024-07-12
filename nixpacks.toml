@@ -1,2 +1,2 @@
 [start]
-cmd = "java -cp target/lib -jar target/*jar"
+cmd = "touch target/lib/.env && java -cp target/lib -jar target/*jar"
